@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/COMPX225-wiki_UoW.iml" filepath="$PROJECT_DIR$/COMPX225-wiki_UoW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COMPX225.iml" filepath="$PROJECT_DIR$/COMPX225.iml" />
     </modules>
   </component>
 </project>
