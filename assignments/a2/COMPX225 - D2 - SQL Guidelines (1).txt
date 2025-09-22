@@ -6,7 +6,7 @@
 	<body>
 		<h1>Dashboard</h1>
 		
-		<h2>Office Prodcuts Table<h2>
+		<h2>Office Products Table<h2>
 		
 		<?php requires_once('db.php');
 			mysqli_close($con);
